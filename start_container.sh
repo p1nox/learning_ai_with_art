@@ -2,4 +2,4 @@
 
 IMAGE_NAME="learning_ai_with_art"
 
-docker run -it -v $(pwd):/home/code ${IMAGE_NAME} bash
+docker run -it -v $(pwd)/assets/inputs:/home/code/assets/inputs -v $(pwd)/assets/outputs:/home/code/assets/outputs ${IMAGE_NAME} bash
