@@ -2,6 +2,9 @@
 
 > A tiny, and easy to use, implementation + collection of resources about AI&Art.
 
+Presented in ScaleConf Colombia 2018 - https://2018.scaleconfco.com/
+Video: https://youtu.be/bUD74QveC4o?si=HLJmmeoO1gbMXGmA
+
 ### Usage
 
 Install [Docker](https://docs.docker.com/install/).
