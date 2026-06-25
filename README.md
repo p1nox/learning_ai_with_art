@@ -2,6 +2,8 @@
 
 > A tiny, and easy to use, implementation + collection of resources about AI&Art.
 
+Every time somebody mention AI news in the office, you wonder on the glorious future beyond your daily data taming or pipelines monitoring. In this talk you will be introduced to Neural Networks applied to arts, using a paper "A Neural Algorithm of Artistic Style" as a "deep" start.
+
 * Presented in ScaleConf Colombia 2018 - https://2018.scaleconfco.com/
 * Video: https://youtu.be/bUD74QveC4o?si=HLJmmeoO1gbMXGmA
 * Deck: https://speakerdeck.com/p1nox/learning-ai-with-van-gogh-botero-and-cruz-diez
