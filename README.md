@@ -2,8 +2,9 @@
 
 > A tiny, and easy to use, implementation + collection of resources about AI&Art.
 
-Presented in ScaleConf Colombia 2018 - https://2018.scaleconfco.com/
-Video: https://youtu.be/bUD74QveC4o?si=HLJmmeoO1gbMXGmA
+* Presented in ScaleConf Colombia 2018 - https://2018.scaleconfco.com/
+* Video: https://youtu.be/bUD74QveC4o?si=HLJmmeoO1gbMXGmA
+* Deck: https://speakerdeck.com/p1nox/learning-ai-with-van-gogh-botero-and-cruz-diez
 
 ### Usage
 
